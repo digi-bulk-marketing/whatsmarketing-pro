@@ -1,9 +1,14 @@
 # Whatsmarketing Pro
 
-- Rebranding ID: 68161782b61e49fca4745caa
-- User ID: 648ea4334d457603329ab69b
-- App name: Whatsmarketing Pro
-- Product name: Button Sender
+Whatsmarketing Pro by Whatsmarketing Pro.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/whatsmarketing-pro/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/whatsmarketing-pro/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/whatsmarketing-pro/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Whatsmarketing Pro** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/whatsmarketing-pro/releases/latest) and reinstall.
